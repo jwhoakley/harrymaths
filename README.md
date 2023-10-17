@@ -1,4 +1,4 @@
-# harrymaths
+# Harry's maths
 
 Python solutions to Harry's maths homework.
 
